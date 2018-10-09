@@ -6,3 +6,6 @@
 * [[Node.js] koa-convert包源码解析](https://github.com/LouisWT/Blog/issues/3)
 * [[Node.js] koa-router包浅析](https://github.com/LouisWT/Blog/issues/4)
 * [[Node.js] passport.js 源码阅读](https://github.com/LouisWT/Blog/issues/5)
+
+### Redux
+* [[redux] 理解 redux applymiddleware 中间件机制](https://github.com/LouisWT/Blog/issues/6)
