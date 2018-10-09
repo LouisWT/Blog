@@ -9,3 +9,4 @@
 
 ### Redux
 * [[redux] 理解 redux applymiddleware 中间件机制](https://github.com/LouisWT/Blog/issues/6)
+* [[redux] redux 常用开发流程](https://github.com/LouisWT/Blog/issues/7)
