@@ -13,3 +13,6 @@
 
 ### WebSocket
 * [[websocket] websocket 实现微信扫码登录(需关注公众号) ](https://github.com/LouisWT/Blog/issues/8)
+
+### JavaScript
+* [[JavaScript] ES6 之 Proxy代理](https://github.com/LouisWT/Blog/issues/9)
