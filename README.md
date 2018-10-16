@@ -13,7 +13,7 @@
 
 ### Webpack
 * [[转载] webpack原理](https://juejin.im/entry/5b0e3eba5188251534379615)
-* [[Webpack] Webpack 与网站性能优化](https://github.com/LouisWT/Blog/issues/11)
+* [[Webpack] Webpack 与基本网站性能优化](https://github.com/LouisWT/Blog/issues/11)
 
 ### WebSocket
 * [[websocket] websocket 实现微信扫码登录(需关注公众号) ](https://github.com/LouisWT/Blog/issues/8)
