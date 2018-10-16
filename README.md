@@ -19,5 +19,6 @@
 * [[websocket] websocket 实现微信扫码登录(需关注公众号) ](https://github.com/LouisWT/Blog/issues/8)
 
 ### JavaScript
+* [[JavaScript] this 解析](https://github.com/LouisWT/Blog/issues/12)
 * [[JavaScript] ES6 之 Symbol](https://github.com/LouisWT/Blog/issues/10)
 * [[JavaScript] ES6 之 Proxy代理](https://github.com/LouisWT/Blog/issues/9)
