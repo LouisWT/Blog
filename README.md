@@ -20,5 +20,6 @@
 
 ### JavaScript
 * [[JavaScript] this 解析](https://github.com/LouisWT/Blog/issues/12)
+* [[JavaScript] 原型链](https://github.com/LouisWT/Blog/issues/13)
 * [[JavaScript] ES6 之 Symbol](https://github.com/LouisWT/Blog/issues/10)
 * [[JavaScript] ES6 之 Proxy代理](https://github.com/LouisWT/Blog/issues/9)
