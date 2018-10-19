@@ -27,3 +27,4 @@
 
 ### MongoDB
 * [[MongoDB] 索引类型](https://github.com/LouisWT/Blog/issues/15)
+* [[MongoDB] 索引属性](https://github.com/LouisWT/Blog/issues/16)
